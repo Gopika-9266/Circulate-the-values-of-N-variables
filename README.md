@@ -16,7 +16,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 Print the values after circulating.
 ### Step 6: 
-end the program.
+End the program.
 ## Program:
 ```
 #Program to circulate N values.
