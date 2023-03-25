@@ -23,10 +23,10 @@ end the program.
 #Developed by: Gopika R
 #RegisterNumber: 212222240031
 def circulate():
-circul = l[n:]+l[:n]
-print('After circulating the values are:', circul)
-l = eval(input())
-n = int(input())
+    list1=eval(input())
+    n=int(input())
+    result=list1[n:]+list1[:n]
+    print("After circulating the values are:",result) 
 
 ```
 
