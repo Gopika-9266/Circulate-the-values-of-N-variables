@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![OUTPUT](circulate.png))
+![OUTPUT](circulate.png)
 
 ## Result:
 Thus, a python program to circulate the n variables using function concept is successfully executed and displayed.
